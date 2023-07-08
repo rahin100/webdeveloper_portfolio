@@ -17,7 +17,7 @@ body {
     padding: 15px 35px;
 }
 
-.section_title {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -245,9 +245,14 @@ footer {
     width: 50%;
 }
 
-.section_title,
+.section_title{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
 .section_description {
     text-align: start;
+ 
 }
 
 .social-links {
